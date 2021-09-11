@@ -4,8 +4,9 @@ This may help you in determining how rare a single attribute or entire Gmoot bag
 I created this very quickly after the mint as no other rarity tool exists at the moment.
 A Friday evening well spent.
 
-NOTE: This is just to help you get an idea of how rare an item may be, but is not a definitive
-rarity score.
+**NOTE: This is just to help you get an idea of how rare an item may be, but is not a definitive
+rarity score. Official rarity calculation will likely be more complex than just the number of
+occurances of a single attribute**
 
 If you find this helpful and would like to support me, feel free to (but don't feel obligated!)
 to donate to my SOL address below.
