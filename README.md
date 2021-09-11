@@ -6,7 +6,7 @@ A Friday evening well spent.
 
 **NOTE: This is just to help you get an idea of how rare an item may be, but is not a definitive
 rarity score. Official rarity calculation will likely be more complex than just the number of
-occurances of a single attribute**
+occurances of a single attribute.**
 
 If you find this helpful and would like to support me, feel free to (but don't feel obligated!)
 to donate to my SOL address below.
