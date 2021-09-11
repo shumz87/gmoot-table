@@ -84,6 +84,7 @@ After, you can run whatever queries you wish on the data :).
     "Horny Panda": 96
   }
 ```
+## Item
 ```JSON
 "item": {
     "Toly Talisman": 85,
