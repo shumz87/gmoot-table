@@ -1,8 +1,11 @@
-# Gmoot Rarity Table
+# Gmoot Table
 This is a table consisting of every Gmoot attribute and how many of that attribute exist.
 This may help you in determining how rare a single attribute or entire Gmoot bag is.
 I created this very quickly after the mint as no other rarity tool exists at the moment.
 A Friday evening well spent.
+
+NOTE: This is just to help you get an idea of how rare an item may be, but is not a definitive
+rarity score.
 
 If you find this helpful and would like to support me, feel free to (but don't feel obligated!)
 to donate to my SOL address below.
