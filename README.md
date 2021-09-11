@@ -6,6 +6,7 @@ A Friday evening well spent.
 
 If you find this helpful and would like to support me, feel free to (but don't feel obligated!)
 to donate to my SOL address below:
+
 89mwjqUJYEWCZj4wAnZKuqSX1wiSktqfGAxMRzoH5snd
 # Methodology
 Using https://links.gmoot.co/, I fetched the JSON data of each Gmoot bag and loaded it into an instance of MongoDB.

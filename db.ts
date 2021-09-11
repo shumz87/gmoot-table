@@ -11,7 +11,7 @@ export async function init() {
     const collectionCount = await BagModel.estimatedDocumentCount();
     
     if (collectionCount === 0) {
-      console.log('mloot database does not exist, creating and seeding with data');
+      console.log('gmoot database does not exist, creating and seeding with data');
       await seedDb();
     }
   } catch(e) {
