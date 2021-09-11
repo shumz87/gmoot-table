@@ -5,9 +5,9 @@ I created this very quickly after the mint as no other rarity tool exists at the
 A Friday evening well spent.
 
 If you find this helpful and would like to support me, feel free to (but don't feel obligated!)
-to donate to my SOL address below:
+to donate to my SOL address below.
 
-89mwjqUJYEWCZj4wAnZKuqSX1wiSktqfGAxMRzoH5snd
+$SOL Address: 89mwjqUJYEWCZj4wAnZKuqSX1wiSktqfGAxMRzoH5snd
 # Methodology
 Using https://links.gmoot.co/, I fetched the JSON data of each Gmoot bag and loaded it into an instance of MongoDB.
 Then, I went through every bag and counted the occurances of each attribute and outputted to a JSON file.
