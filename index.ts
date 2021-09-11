@@ -44,13 +44,5 @@ import { BagModel } from './models/bag'
     for (const atr of bag.attributes) {
       s += maps[atr.traitType][atr.value];
     }
-
-    bagsMap[bag.name] = {
-      score: s/8,
-      bag,
-    }
-
-    //await BagModel.findOneAndUpdate({ name: bag.name }, { score: s/8 });
-    //console.log(`${bag.name}: ${s/8}`);
   }
 })();
